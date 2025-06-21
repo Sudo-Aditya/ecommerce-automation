@@ -51,4 +51,8 @@ venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
+---
 
+## 📸 Example Report Screenshot
+
+![Test Report](screenshots/test-report.png)
